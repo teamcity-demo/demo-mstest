@@ -1,12 +1,9 @@
 ﻿<?xml version="1.0"?>
 <package>
   <metadata>
-    <!--*-->
-    <id>demo-mstest</id>
-    <!--*-->
-    <version>$version$</version>
+    <id>TeamCity</id>
+    <version>TeamCity-Demo</version>
     <title></title>
-    <!--*-->
     <authors>TeamCity</authors>
     <owners>TeamCity</owners>
 <!--
@@ -15,9 +12,7 @@
     <iconUrl></iconUrl>
 -->
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!--*-->
     <description>Criação básica de um NuGet Pack</description>
-    <!--*-->
     <releaseNotes> </releaseNotes>
     <copyright>Copyright 2017</copyright>
     <tags> </tags>
