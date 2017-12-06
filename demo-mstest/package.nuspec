@@ -1,0 +1,34 @@
+﻿<?xml version="1.0"?>
+<package>
+  <metadata>
+    <!--*-->
+    <id>demo-mstest</id>
+    <!--*-->
+    <version>$version$</version>
+    <title></title>
+    <!--*-->
+    <authors>TeamCity</authors>
+    <owners>TeamCity</owners>
+<!--
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--*-->
+    <description>$description$</description>
+    <!--*-->
+    <releaseNotes> </releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags> </tags>
+    <dependencies>
+         <group targetFramework="net461">
+            <dependency id="MSTest.TestAdapter" version="1.1.18" />
+            <dependency id="MSTest.TestFramework" version="1.1.18" />
+         </group>
+      </dependencies>
+  </metadata>
+  <files>
+    <file src="demo-mstest\**\*.cs" exclude="**\obj\**\*.*" target="src" />
+  </files>
+</package>
