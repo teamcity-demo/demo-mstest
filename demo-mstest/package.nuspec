@@ -28,7 +28,4 @@
          </group>
       </dependencies>
   </metadata>
-  <files>
-    <file src="demo-mstest\**\*.cs" exclude="**\obj\**\*.*" target="src" />
-  </files>
 </package>
