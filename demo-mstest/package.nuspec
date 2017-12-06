@@ -16,10 +16,10 @@
 -->
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <!--*-->
-    <description>$description$</description>
+    <description>Criação básica de um NuGet Pack</description>
     <!--*-->
     <releaseNotes> </releaseNotes>
-    <copyright>$copyright$</copyright>
+    <copyright>Copyright 2017</copyright>
     <tags> </tags>
     <dependencies>
          <group targetFramework="net461">
